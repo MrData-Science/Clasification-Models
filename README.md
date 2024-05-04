@@ -1,1 +1,1 @@
-# Clasification-Models
+# Clasification Models
