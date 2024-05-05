@@ -25,4 +25,6 @@ El conjunto de datos utilizado en este proyecto consta de noticias representadas
 
 Los modelos entrenados fueron validados utilizando el `roc_auc_score`, que mide el área bajo la curva ROC (Receiver Operating Characteristic). Esta métrica evalúa la capacidad de discriminación del modelo, es decir, su capacidad para distinguir entre clases positivas y negativas.
 
+[Explora el análisis completo aqui](Modelos_de_clasificacion.ipynb)
+
 
